@@ -27,3 +27,8 @@ Tests do not run as expected in IntelliJ. Instead use `lein test`.
 It is also possible to test a single test, helpfully `lein` provides this command on test execution failure, allowing 
 any particular test to be re-run from the command line.
 
+# Clojure koans
+
+[Clojure koans](http://clojurekoans.com/) and on Github to run yourself: 
+[https://github.com/functional-koans/clojure-koans]
+
