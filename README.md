@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alphafoobar/code-kata-clojure.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-clojure)
+
 # Code Kata clojure!
 
 Clojure is a LISP style functional language for the JVM, it can be transpiled to JavaScript, or compiled for the CLR. But
