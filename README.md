@@ -3,10 +3,20 @@
 Clojure is a LISP style functional language for the JVM, it can be transpiled to JavaScript, or compiled for the CLR. But
 more commonly it is intended for the JVM.
 
+# IDE
+
+Using Jetbrains IntelliJ IDEA community 2018.3 with plugins:
+* Cursive (not yet compatible with IntelliJ IDEA 2019.1)
+* Markdown
+
+The JVM is:
+* 1.8.0_121
+
+# Quickstart
+
 This clojure project initialised using lein. To run this project:
 * Add the clojure plugin to intellij IDEA. Intellij will then be able to download the other required jars.
-* make `lein` executable.
-* run `./lein` or `lein.bat` this will set up the project locally.
+* make `lein` executable. `chmod +x lein`
 
 # Run tests
 
